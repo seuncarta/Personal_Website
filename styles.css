@@ -1,0 +1,25 @@
+body { background-color: #F9F3EE;}
+
+img { border-radius: 50px;}
+
+hr {
+  border-style: dotted none none;
+  border-color: #a28b78;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #97C4B8;
+}
+
+h3 {
+  color: #97C4B8;
+}
+
+/* . preceed the name for styling class */
+.image_credentails {
+  border-spacing: 5px;
+}
+
+/* # preceed the name for styling id */
