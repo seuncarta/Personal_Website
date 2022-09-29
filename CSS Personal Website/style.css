@@ -136,6 +136,7 @@ hr {
   width: 40% auto 40%;
   margin: auto;
   line-height: 2;
+  padding: 0 10px;
 }
 .skill-row {
   width: 50%;
