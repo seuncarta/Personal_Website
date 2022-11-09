@@ -1,8 +1,10 @@
 body {
   /* background-color: #fefbe7; */
-  background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQFPrAuSknIL2Q/profile-displayphoto-shrink_400_400/0/1643288664943?e=1669248000&v=beta&t=r70qMFlv5VP9acJgg3fesLi_tWRmDFZBPf7dQk9rXtc");
+  /* background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQFPrAuSknIL2Q/profile-displayphoto-shrink_400_400/0/1643288664943?e=1669248000&v=beta&t=r70qMFlv5VP9acJgg3fesLi_tWRmDFZBPf7dQk9rXtc"); */
+  background-color: #01676B;
   background-size: auto;
   margin: 0px;
+  padding: 4% 0;
   text-align: center;
   font-family: "Merriweather", serif;
   font-size: 100%;
@@ -10,7 +12,8 @@ body {
 }
 
 section {
-  max-width: 60%;
+  max-width: 65%;
+  border-radius: 10%;
   margin: auto;
 }
 
