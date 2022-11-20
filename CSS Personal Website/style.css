@@ -1,7 +1,7 @@
 body {
   /* background-color: #fefbe7; */
   /* background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQFPrAuSknIL2Q/profile-displayphoto-shrink_400_400/0/1643288664943?e=1669248000&v=beta&t=r70qMFlv5VP9acJgg3fesLi_tWRmDFZBPf7dQk9rXtc"); */
-  background-color: #01676B;
+  background-color: #01676b;
   background-size: auto;
   margin: 0px;
   padding: 4% 0;
@@ -23,7 +23,6 @@ section {
     margin: auto;
   }
 }
-
 
 h1 {
   font-size: 5.625rem;
@@ -50,6 +49,11 @@ h3 {
 p {
   font-size: large;
   color: #40514e;
+  padding-bottom: 1%;
+}
+
+.header {
+  margin-bottom: 0;
 }
 
 hr {
