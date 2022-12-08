@@ -1,6 +1,4 @@
 body {
-  /* background-color: #fefbe7; */
-  /* background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQFPrAuSknIL2Q/profile-displayphoto-shrink_400_400/0/1643288664943?e=1669248000&v=beta&t=r70qMFlv5VP9acJgg3fesLi_tWRmDFZBPf7dQk9rXtc"); */
   background-color: #01676b;
   background-size: auto;
   margin: 0px;
@@ -12,8 +10,7 @@ body {
 }
 
 section {
-  max-width: 65%;
-  border-radius: 10%;
+  max-width: 70%;
   margin: auto;
 }
 
@@ -30,6 +27,7 @@ h1 {
   font-family: "Sacramento", cursive;
   color: #66bfbf;
   line-height: 1;
+  margin-top: 2%;
 }
 
 h2 {
@@ -37,8 +35,6 @@ h2 {
   font-size: 2.5rem;
   font-weight: normal;
   color: #66bfbf;
-  margin-bottom: 0%;
-  padding-bottom: 10px;
 }
 
 h3 {
@@ -49,21 +45,16 @@ h3 {
 p {
   font-size: large;
   color: #40514e;
-  padding-bottom: 1%;
 }
 
 .header {
   margin-bottom: 0;
 }
 
-hr {
-  border-width: 2;
-}
-
 a {
   color: #11999e;
   font-family: "Montserrat", sans-serif;
-  margin: 10px 20px;
+  margin: 1%;
   text-decoration: none;
 }
 
@@ -73,10 +64,10 @@ a:hover {
 
 hr {
   border-style: dotted none none;
-  border-color: #eaf6f6;
+  border-color: #aaf1f1;
   border-width: 6px;
   width: 5%;
-  margin: 50px auto;
+  margin: 2% auto;
 }
 
 /************************Class styling*****************/
@@ -84,22 +75,21 @@ hr {
 .top-container {
   background-color: #eaf6f6;
   position: relative;
-  padding-top: 50px;
+  padding: 1%;
 }
 
 .middle-container {
   background-color: rgb(253, 252, 252);
-  padding-bottom: 30px;
-  padding-top: 50px;
+  padding: 1%;
 }
 
 .bottom-container {
   background-color: #66bfbf;
-  padding: 50px 0 20px;
+  padding: 1%;
 }
 
 .profile_picture {
-  border-radius: 50%;
+  border-radius: 80%;
   width: 10%;
 }
 .picture {
@@ -122,42 +112,23 @@ hr {
   text-decoration: underline;
 }
 
-/* .top-cloud {
-  position: absolute;
-  top: 40px;
-  right: 300px;
-} */
-
-/* .bottom-cloud {
-  position: absolute;
-  left: 250px;
-  bottom: 300px;
-} */
 .Hello {
-  width: 40%;
+  width: 60%;
   margin: auto;
   line-height: 2;
 }
 
 .contact-message {
-  width: 40% auto 40%;
+  width: 60% auto;
   margin: auto;
   line-height: 2;
-  padding: 0 10px;
 }
 .skill-row {
-  width: 50%;
-  margin: 100px auto;
+  width: 60%;
+  margin: 5% auto;
   text-align: justify;
   line-height: 2;
 }
-
-/* .footer-link {
-  color: #11999e;
-  font-size: medium;
-  padding-right: 40px;
-  text-decoration: none;
-} */
 
 .btn {
   background: #11cdd4;
@@ -196,6 +167,6 @@ hr {
 
 #copyright {
   color: #eaf6f6;
-  padding: 20px 0;
+  padding: 1%;
   font-size: 0.75rem;
 }
