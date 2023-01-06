@@ -1,5 +1,5 @@
 # Personal_Website
-I'm Seun.
+I'm Omotayo SAMUEL but I am generaly known as Seun.
 I am a Quality Assurance Software Tester and I am very good with manual testing. I have proven skills in completing Web, Mobile and API testing. Background writing and implementing test cases, developing testing plans and identifying use cases. Fully versed in complete SDLC. Effective team player offering exceptional analytical and critical thinking skills and the important ability to function well in a fast-paced business environment.
 
 I am a highly motivated and progress-focused Software QA Tester with a long-standing background in the industry. With a track record of initiative and dependability.
