@@ -112,6 +112,10 @@ hr {
   text-decoration: underline;
 }
 
+.header {
+  font-family: cursive;
+}
+
 .Hello {
   width: 60%;
   margin: auto;
