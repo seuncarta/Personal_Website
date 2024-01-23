@@ -93,13 +93,13 @@ hr {
   width: 20%;
 }
 .picture {
-  border-radius: 50%;
+  border-radius: 30%;
   width: 25%;
   float: left;
   padding-right: 30px;
 }
 .favorite_food {
-  border-radius: 50%;
+  border-radius: 30%;
   width: 25%;
   float: right;
   padding-left: 30px;
@@ -113,7 +113,7 @@ hr {
 }
 
 .header {
-  font-family: cursive;
+  font-family: Georgia, serif;
 }
 
 .Hello {
