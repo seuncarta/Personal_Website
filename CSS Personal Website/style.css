@@ -90,7 +90,7 @@ hr {
 
 .profile_picture {
   border-radius: 50%;
-  width: 20%;
+  width: 13%;
 }
 .picture {
   border-radius: 30%;
@@ -114,6 +114,11 @@ hr {
 
 .header {
   font-family: Georgia, serif;
+  text-align: justify;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px 20px;
 }
 
 .Hello {
@@ -124,6 +129,7 @@ hr {
 
 .contact-message {
   width: 60% auto;
+  max-width: 800px;
   margin: auto;
   line-height: 2;
 }
